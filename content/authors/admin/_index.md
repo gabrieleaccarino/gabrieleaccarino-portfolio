@@ -28,13 +28,13 @@ interests:
 education:
   courses:
   - course: Ph.D. Fellow in Biological and Environmental Sciences and Technologies (Data Science for Climate Change)
-    institution: University of Salento
+    institution: University of Salento, Lecce, Italy
     year: 2018-Present
   - course: MD in Computer Engineering
-    institution: University of Salento
+    institution: University of Salento, Lecce, Italy
     year: 2016-2018
   - course: BD in Information Engineering
-    institution: University of Salento
+    institution: University of Salento, Lecce, Italy
     year: 2012-2015
 
 # Social/Academic Networking
