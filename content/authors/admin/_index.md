@@ -6,13 +6,13 @@ title: Gabriele Accarino
 superuser: true
 
 # Role/position/tagline
-role: PhD Fellow
+role: Ph.D. Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Salento
   url: https://www.unisalento.it
-- name: Euro-Mediterranean Center on Climate Change
+- name: Euro-Mediterranean Center on Climate Change (CMCC Foundation)
   url: https://www.cmcc.it/it
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,15 +27,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. Fellow in Biological and Environmental Sciences and Technologies (Data Science for Climate Change)
+    institution: University of Salento
+    year: 2018-Present
+  - course: MD in Computer Engineering
+    institution: University of Salento
+    year: 2016-2018
+  - course: BD in Information Engineering
+    institution: University of Salento
+    year: 2012-2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
