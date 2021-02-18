@@ -54,12 +54,12 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=CApm3HQAAAAJ&hl=it
--icon: researchgate
- icon_pack: fab
- link: https://www.researchgate.net/profile/Gabriele-Accarino
--icon: orcid
- icon_pack: fab
- link: 
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Gabriele-Accarino
+- icon: orcid
+  icon_pack: fab
+  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/gabrieleaccarino
