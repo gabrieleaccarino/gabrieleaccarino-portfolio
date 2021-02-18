@@ -12,6 +12,8 @@ role: PhD Fellow
 organizations:
 - name: University of Salento
   url: https://www.unisalento.it
+- name: Euro-Mediterranean Center on Climate Change
+  url: https://www.cmcc.it/it
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
