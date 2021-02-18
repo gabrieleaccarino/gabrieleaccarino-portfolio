@@ -12,7 +12,7 @@ role: Ph.D. Fellow
 organizations:
 - name: University of Salento
   url: https://www.unisalento.it
-- name: Euro-Mediterranean Center on Climate Change (CMCC Foundation)
+- name: Euro-Mediterranean Center on Climate Change \n(CMCC Foundation)
   url: https://www.cmcc.it/it
 
 # Short bio (displayed in user profile at end of posts)
