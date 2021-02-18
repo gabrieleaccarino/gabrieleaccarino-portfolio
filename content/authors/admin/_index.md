@@ -23,6 +23,7 @@ interests:
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
+- High Performance Computing
 - Climate Science
 - Biostatistics
 
@@ -47,18 +48,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=CApm3HQAAAAJ&hl=it
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/gabrieleaccarino
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/gabrieleaccarino/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -73,9 +74,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Gabriele Accarino obtained his Master’s Degree in Computer Engineering at the University of Salento with honours. Afterwards, he entered the Ph.D. program at the Department of Biological and Environmental Sciences and Technologies (DiSTeBA) of the University of Salento, aiming at exploit Data Science in the Climate Change context. Since May 2018, he has been collaborating with the Exascale Machine Learning for Climate Change (EMLC2) research unit within the Advanced Scientific Computing (ASC) Division of the Euro-Mediterranean Center on Climate Change (CMCC Foundation). His research interests include Machine and Deep Learning, High Performance Computing, Climate Science and Biostatistics. He is also teaching assistant in the High Performance Computing (HPC) course held by Prof. Giovanni Aloisio.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
