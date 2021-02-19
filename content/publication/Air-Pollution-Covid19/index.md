@@ -15,11 +15,11 @@ author_notes:
 - "Equal contribution"
 - "Corresponding Author"
 
-date: "2013-07-01T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.envpol.2020.115714"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content/publication/Accarino_et_al_2021'
+url_pdf: 'Accarino_et_al_2021'
 url_code: ''
 url_dataset: ''
 url_poster: ''
