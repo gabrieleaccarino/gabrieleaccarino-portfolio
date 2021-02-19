@@ -46,7 +46,7 @@ featured: False
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '⁨content⁩/⁨publication⁩/⁨Assessing correlations between short-term exposure to atmospheric pollutants and COVID-19 spread in all Italian territorial areas⁩.pdf'
+url_pdf: '⁨content⁩/⁨publication⁩/⁨Assessing\ correlations\ between\ short-term\ exposure\ to\ atmospheric\ pollutants\ and\ COVID-19 spread\ in\ all\ Italian\ territorial\ areas⁩.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -80,7 +80,7 @@ url_video: ''
 
 #--------------------------------------
 slides: ""
----
+
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
