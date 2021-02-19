@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'Accarino_et_al_2021'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
