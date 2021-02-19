@@ -39,14 +39,14 @@ summary: The present work has been aimed at analyzing the atmospheric pollutants
 tags: [COVID-19, Air Pollution]
 
 # Display this page in the Featured widget?
-featured: true
+featured: False
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '⁨content⁩/⁨publication⁩/⁨Assessing correlations between short-term exposure to atmospheric pollutants and COVID-19 spread in all Italian territorial areas⁩'
+url_pdf: '⁨content⁩/⁨publication⁩/⁨Assessing correlations between short-term exposure to atmospheric pollutants and COVID-19 spread in all Italian territorial areas⁩.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -80,14 +80,13 @@ url_video: ''
 
 #--------------------------------------
 slides: ""
----
 
-#{{% callout note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management #software.
-#{{% /callout %}}
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
 
-#{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out the example.
-#{{% /callout %}}
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
 
 #Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
