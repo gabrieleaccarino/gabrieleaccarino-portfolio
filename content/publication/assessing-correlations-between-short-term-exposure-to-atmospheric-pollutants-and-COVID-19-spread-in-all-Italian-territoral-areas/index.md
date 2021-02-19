@@ -25,7 +25,7 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Environmental Pollution*
@@ -46,7 +46,7 @@ featured: False
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '⁨content⁩/⁨publication⁩/⁨assessing-correlations-between-short-term-exposure-to-atmospheric-pollutants-and-COVID-19-spread-in-all-Italian-territoral-areas⁩/Accarino_et_al_2021_covid19.pdf'
+url_pdf: '⁨'
 url_code: ''
 url_dataset: ''
 url_poster: ''
