@@ -36,7 +36,7 @@ abstract: The spread of SARS-CoV-2, the beta coronavirus responsible for the cur
 # Summary. An optional shortened abstract.
 summary: The present work has been aimed at analyzing the atmospheric pollutants concentrations ($PM_{10}$, PM2.5, NO2) and spatio-temporal distribution of cases and deaths (specifically incidence, mortality and lethality rates) across the whole Italian national territory, down to the level of each individual territorial area, with the goal of checking any potential short-term correlation between these two phenomena.
 
-tags: [COVID-19; PM10, PM2.5, and NO2; Short-term exposure; Non-parametric correlation]
+tags: [COVID-19, Air Pollution]
 
 # Display this page in the Featured widget?
 featured: true
@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: '⁨content⁩/⁨publication⁩/⁨Assessing correlations between short-term exposure to atmospheric pollutants and COVID-19 spread in all Italian territorial areas⁩'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -82,12 +82,12 @@ url_video: ''
 slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+#{{% callout note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management #software.
+#{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
