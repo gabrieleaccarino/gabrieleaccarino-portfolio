@@ -4,21 +4,21 @@ title: CMCC Annual Meeting 2018
 event:
 event_url:
 
-location: Marina di Ugento
+location: Marina di Ugento, Lecce, Italy
 address:
   street:
-  city: Lecce
+  city:
   region:
-  postcode: ''
-  country: Italy
+  postcode:
+  country:
 
 summary: ""
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-06"
-date_end: "" #"2018-07-01T13:00:00Z"
+date: "2018-06-05T13:00:00Z"
+date_end: "2018-06-06T13:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
