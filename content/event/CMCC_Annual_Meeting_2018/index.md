@@ -1,11 +1,11 @@
 ---
 title: CMCC Annual Meeting 2018
 
-event: ""
+event: "AAA"
 event_url: ""
 
 location: Marina di Ugento
-address: ""
+address: "Via"
   street: ""
   city: Lecce
   region: ""
