@@ -46,7 +46,7 @@ featured: False
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '⁨content⁩/⁨publication⁩/⁨Assessing\ correlations\ between\ short-term\ exposure\ to\ atmospheric\ pollutants\ and\ COVID-19 spread\ in\ all\ Italian\ territorial\ areas⁩/Accarino_et_al_2021_covid19'
+url_pdf: '⁨content⁩/⁨publication⁩/⁨Assessing\ correlations\ between\ short-term\ exposure\ to\ atmospheric\ pollutants\ and\ COVID-19 spread\ in\ all\ Italian\ territorial\ areas⁩/Accarino_et_al_2021_covid19.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
