@@ -1,5 +1,5 @@
 ---
-title: PROVA #Projecting Conflict under a Changing Climate: An Artificial Intelligence application
+title: "Projecting Conflict under a Changing Climate: An Artificial Intelligence application"
 
 event: SISC 7th Annual Conference (ClimRisk2019)
 event_url:
