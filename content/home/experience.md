@@ -54,7 +54,7 @@ experience:
     date_start: '2018-11-01'
     date_end: ''
     description: |2-
-        Mentor: Prof. Giovanni Aloisio
+        Mentor: Prof. Giovanni Aloisio (Dept. of Innovation Engineering)
 
         The "Data Science for Climate Change" research project mainly focuses on the following topics:
 
