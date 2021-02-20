@@ -1,10 +1,10 @@
 ---
-title: CMCC Annual Meeting 2018
+title: Projecting Conflict under a Changing Climate: An Artificial Intelligence application
 
-event:
+event: APSA Annual Conference
 event_url:
 
-location: Marina di Ugento, Lecce, Italy
+location: Washington D.C., US
 address:
   street:
   city:
@@ -18,15 +18,15 @@ abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 # 2018-06-05T13:00:00Z
-date: "2018-06-05"
-date_end: "2018-06-06"
+date: "2019-08-29"
+date_end: "2019-09-01"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: ""
 
-authors: [G. Accarino*]
-tags: [Climate Change]
+authors: [P. Vesco, G. Accarino*, M. L. Gabrielli, A. Essenfelder, M. N. Mistry, G. Aloisio]
+tags: [Conflicts, Climate Change, Artificial Intelligence]
 
 # Is this a featured talk? (true/false)
 featured: false

@@ -1,10 +1,10 @@
 ---
-title: CMCC Annual Meeting 2020
+title: CMCC Annual Meeting 2019
 
 event:
 event_url:
 
-location: Virtual
+location: Marina di Ugento, Lecce, Italy
 address:
   street:
   city:
@@ -18,15 +18,15 @@ abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 # 2018-06-05T13:00:00Z
-date: "2020-12-14"
-date_end: ""
+date: "2019-06-04"
+date_end: "2019-06-05"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: ""
 
-authors: []
-tags: []
+authors: [G. Accarino*]
+tags: [Climate Change]
 
 # Is this a featured talk? (true/false)
 featured: false

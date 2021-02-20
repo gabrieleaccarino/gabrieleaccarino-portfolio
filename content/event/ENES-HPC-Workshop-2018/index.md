@@ -1,10 +1,10 @@
 ---
-title: CMCC Annual Meeting 2018
+title: 5th ENES HPC Workshop on HPC for High-Resolution Climate and Weather Modelling
 
 event:
-event_url:
+event_url: https://www.esiwace.eu/events/5th-enes-hpc-workshop
 
-location: Marina di Ugento, Lecce, Italy
+location: Lecce, Italy
 address:
   street:
   city:
@@ -18,15 +18,15 @@ abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 # 2018-06-05T13:00:00Z
-date: "2018-06-05"
-date_end: "2018-06-06"
+date: "2018-05-17"
+date_end: "2018-05-18"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: ""
 
-authors: [G. Accarino*]
-tags: [Climate Change]
+authors: []
+tags: [Climate Change, High Performance Computing, Weather, Climate, Modelling]
 
 # Is this a featured talk? (true/false)
 featured: false

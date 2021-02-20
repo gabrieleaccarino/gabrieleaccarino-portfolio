@@ -1,10 +1,10 @@
 ---
-title: CMCC Annual Meeting 2018
+title: Machine Learning for Weather and Climate Modelling
 
 event:
-event_url:
+event_url: http://users.ox.ac.uk/~phys0895/mlwc2019/index.html#
 
-location: Marina di Ugento, Lecce, Italy
+location: Corpus Christi College, Oxford, UK
 address:
   street:
   city:
@@ -18,18 +18,18 @@ abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 # 2018-06-05T13:00:00Z
-date: "2018-06-05"
-date_end: "2018-06-06"
+date: "2019-09-02"
+date_end: "2019-09-05"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: ""
 
 authors: [G. Accarino*]
-tags: [Climate Change]
+tags: [Climate Change, Machine Learning, Weather, Climate, Modelling]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: True
 
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'

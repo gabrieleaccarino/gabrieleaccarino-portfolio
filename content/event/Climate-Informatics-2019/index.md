@@ -1,10 +1,10 @@
 ---
-title: CMCC Annual Meeting 2018
+title: The 9th Climate Informatics Workshop 2019
 
 event:
 event_url:
 
-location: Marina di Ugento, Lecce, Italy
+location: Ecole Normale Supérieure, Paris, France
 address:
   street:
   city:
@@ -18,15 +18,15 @@ abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 # 2018-06-05T13:00:00Z
-date: "2018-06-05"
-date_end: "2018-06-06"
+date: "2019-10-02"
+date_end: "2019-10-04"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: ""
 
-authors: [G. Accarino*]
-tags: [Climate Change]
+authors: []
+tags: [Climate Change, Climate Informatics]
 
 # Is this a featured talk? (true/false)
 featured: false
