@@ -1,7 +1,7 @@
 ---
-title: Projecting Conflict under a Changing Climate: An Artificial Intelligence application
+title: "Projecting Conflict under a Changing Climate: An Artificial Intelligence application"
 
-event: APSA Annual Conference
+event: "APSA Annual Conference"
 event_url:
 
 location: Washington D.C., US

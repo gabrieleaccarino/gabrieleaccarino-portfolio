@@ -1,7 +1,7 @@
 ---
 title: "Projecting Conflict under a Changing Climate: An Artificial Intelligence application"
 
-event: SISC 7th Annual Conference (ClimRisk2019)
+event: "SISC 7th Annual Conference (ClimRisk2019)"
 event_url:
 
 location: Trento, Italy
@@ -20,16 +20,16 @@ abstract: ""
 # 2018-06-05T13:00:00Z
 date: "2019-10-23"
 date_end: "2019-10-25"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: ""
 
-authors: #[P. Vesco, G. Accarino, M. L. Gabrielli, A. Essenfelder, M. N. Mistry, G. Aloisio]
-tags: #[Conflicts, Climate Change, Artificial Intelligence]
+authors: [P. Vesco, G. Accarino, M. L. Gabrielli, A. Essenfelder, M. N. Mistry, G. Aloisio]
+tags: [Conflicts, Climate Change, Artificial Intelligence]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
