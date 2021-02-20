@@ -54,13 +54,27 @@ experience:
     date_start: '2018-11-01'
     date_end: ''
     description: |2-
-        The "Data Science for Climate Change" research project focuses on the following topics:
+        Mentor: Prof. Giovanni Aloisio
+        The "Data Science for Climate Change" research project mainly focuses on the following topics:
 
         * Time series forecasting
         * Deep Learning for Statistical Downscaling
         * Hybrid Modelings
         * Climate Change and Civil Conflicts
         * MARS radargrams analysis for the water discovery process
-        * "Tropical Cyclones: Tracking, Detection and Track-forecasting"
-        * "Environment Epidemiology: assessing the potential role of air pollution on the COVID-19 mortality in Italy"
+        * Tropical Cyclones: Tracking, Detection and Track-forecasting
+        * Environment Epidemiology: assessing the potential role of air pollution on the COVID-19 mortality in Italy
+
+  - title: Teaching Assistant in High Performance Computing (Machine Learning exercises)
+    company: University of Salento
+    company_url: ''
+    location: Lecce, Italy
+    date_start: '2020-03-01'
+    date_end: ''
+    description: |2-
+        Teaching Assistant in the HPC Master's degree course (held by Prof. Giovanni Aloisio)
+
+        I co-supervised several theses of BD and MD students:
+        * 6 Master's degree thesis supervised within 2019 and 2020
+        * 3 Bachelor's degree thesis supervised in 2019
 ---
