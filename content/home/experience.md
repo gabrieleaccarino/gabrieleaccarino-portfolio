@@ -60,9 +60,9 @@ experience:
 
         * Time series forecasting
         * Deep Learning for Statistical Downscaling
-        * Hybrid Modelings
+        * Hybrid Modeling
         * Climate Change and Civil Conflicts
-        * MARS radargrams analysis for the water discovery process
+        * MARS radargrams analysis to foster the water discovery process
         * Tropical Cyclones: Tracking, Detection and Track-forecasting
         * Environmental Epidemiology: assessing the potential role of air pollution on the COVID-19 mortality in Italy
 
