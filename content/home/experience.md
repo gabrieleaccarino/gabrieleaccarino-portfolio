@@ -26,8 +26,8 @@ experience:
     company: CMCC Foundation
     company_url: 'https://www.cmcc.it/it/'
     location: Lecce, Italy
-    date_start: '2017-12'
-    date_end: '2018-03'
+    date_start: '2017-12-01'
+    date_end: '2018-03-01'
     description: |2-
         Tasks:
 
@@ -38,8 +38,8 @@ experience:
     company: CMCC Foundation (Advanced Scientific Computing Division)
     company_url: 'https://www.cmcc.it/it/'
     location: Lecce, Italy
-    date_start: '2018-05'
-    date_end: '2018-10'
+    date_start: '2018-05-01'
+    date_end: '2018-10-01'
     description: |2-
         Research activities:
 
@@ -51,7 +51,7 @@ experience:
     company: University of Salento
     company_url: ''
     location: Lecce, Italy
-    date_start: '2018-11'
+    date_start: '2018-11-01'
     date_end: ''
     description: |2-
         The "Data Science for Climate Change" research project focuses on the following topics:
