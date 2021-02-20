@@ -20,7 +20,7 @@ abstract: ""
 # 2018-06-05T13:00:00Z
 date: "2019-10-23"
 date_end: "2019-10-25"
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: ""
