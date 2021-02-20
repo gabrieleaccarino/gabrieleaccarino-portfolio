@@ -78,7 +78,7 @@ social:
 email: "gabriele.accarino@unisalento.it"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 Gabriele Accarino obtained his Master’s Degree in Computer Engineering at the University of Salento with honours. Afterwards, he entered the Ph.D. program at the Department of Biological and Environmental Sciences and Technologies (DiSTeBA) of the University of Salento, with the aim of exploiting Data Science in the Climate Change context. Since May 2018, he has been collaborating with the Exascale Machine Learning for Climate Change (EMLC2) research unit within the Advanced Scientific Computing (ASC) Division of the Euro-Mediterranean Center on Climate Change (CMCC Foundation). His research interests include Machine and Deep Learning, High Performance Computing, Climate Science and Biostatistics. He is also teaching assistant in the High Performance Computing (HPC) course held by Prof. Giovanni Aloisio.
 
