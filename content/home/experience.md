@@ -52,7 +52,7 @@ experience:
     company_url: ''
     location: Lecce, Italy
     date_start: '2018-11'
-    date_end: 'Present'
+    date_end: ''
     description: |2-
         The "Data Science for Climate Change" research project focuses on the following topics:
 
