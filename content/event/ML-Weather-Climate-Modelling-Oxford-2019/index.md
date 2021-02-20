@@ -25,7 +25,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: ""
 
-authors: [G. Accarino*]
+authors: [G. Accarino*, D. Elia]
 tags: [Climate Change, Machine Learning, Weather, Climate, Modelling]
 
 # Is this a featured talk? (true/false)

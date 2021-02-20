@@ -25,7 +25,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: ""
 
-authors: [P. Vesco, G. Accarino, M. L. Gabrielli, A. Essenfelder, M. N. Mistry, G. Aloisio]
+authors: [P. Vesco, G. Accarino*, M. L. Gabrielli, A. H. Essenfelder, M. N. Mistry, G. Aloisio]
 tags: [Conflicts, Climate Change, Artificial Intelligence]
 
 # Is this a featured talk? (true/false)

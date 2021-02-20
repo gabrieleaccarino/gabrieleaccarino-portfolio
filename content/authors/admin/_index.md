@@ -20,12 +20,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
+- Statistics
 - Machine Learning
 - Deep Learning
 - High Performance Computing
 - Climate Science
-- Biostatistics
+- Environmental Epidemiology
 
 # Education to show in About widget
 education:
@@ -57,12 +57,12 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Gabriele-Accarino
-- icon: orcid
-  icon_pack: fab
-  link:
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gabrieleaccarino
+#- icon: orcid
+#  icon_pack: fab
+#  link:
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gabrieleaccarino
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/gabrieleaccarino/
