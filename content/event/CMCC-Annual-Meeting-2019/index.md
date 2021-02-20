@@ -25,7 +25,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: ""
 
-authors: [G. Accarino*]
+authors: [G. Accarino]
 tags: [Climate Change]
 
 # Is this a featured talk? (true/false)
