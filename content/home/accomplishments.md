@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: "coursera.org/verify/P8M5EJNZ9ZP5"
+- certificate_url: "https://www.coursera.org/account/accomplishments/verify/P8M5EJNZ9ZP5"
   date_end: ""
   date_start: "2019-03-17"
   description: "Prof. Andrew Ng"
