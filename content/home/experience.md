@@ -56,8 +56,8 @@ experience:
     description: |2-
         Mentor: Prof. Giovanni Aloisio (Dept. of Innovation Engineering)
 
-        The "Data Science for Climate Change" research project aims to address the convergence between Data Science and Climate Change
-        for researching innovative, powerful and more convenient solutions. Currently, the topics under investigation are as follows:
+        The "Data Science for Climate Change" research project aims to address the convergence between Data Science and Climate Change for researching innovative, powerful and more convenient solutions. Currently, the topics under investigation are as follows:
+
 
         * Time series forecasting
         * Deep Learning for Statistical Downscaling
