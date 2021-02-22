@@ -56,7 +56,8 @@ experience:
     description: |2-
         Mentor: Prof. Giovanni Aloisio (Dept. of Innovation Engineering)
 
-        The "Data Science for Climate Change" research project mainly focuses on the following topics:
+        The "Data Science for Climate Change" research project aims to address the convergence between Data Science and Climate Change
+        for researching innovative, powerful and more convenient solutions. Currently, the topics under investigation are as follows:
 
         * Time series forecasting
         * Deep Learning for Statistical Downscaling
@@ -76,7 +77,7 @@ experience:
         Teaching Assistant in the HPC Master's degree course (held by Prof. Giovanni Aloisio)
 
         I co-supervised several theses of BD and MD students:
-        * 6 Master's degree thesis supervised within 2019 and 2020
+        * 6 Master's degree thesis supervised between 2019 and 2020
         * 3 Bachelor's degree thesis supervised in 2019
 
   - title: Collaborator in the Exascale Machine Learning for Climate Change (EMLC2) research unit
